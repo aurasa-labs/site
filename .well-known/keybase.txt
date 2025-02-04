@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/aurasa
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.aurasa.xyz
+  * I am aurasa (https://keybase.io/aurasa) on keybase.
+  * I have a public key with fingerprint 54EC 7665 78F1 596A CA66  6AFC 1BFC D995 ACE1 D1AB
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101060187856f29012daa05396c8fe33c620bd81daa35513ebeb7fa949f282cdc850a",
+      "fingerprint": "54ec766578f1596aca666afc1bfcd995ace1d1ab",
+      "host": "keybase.io",
+      "key_id": "1bfcd995ace1d1ab",
+      "kid": "0101060187856f29012daa05396c8fe33c620bd81daa35513ebeb7fa949f282cdc850a",
+      "uid": "6b747bfd30ebbd18426e49f96e29a219",
+      "username": "aurasa"
+    },
+    "service": {
+      "hostname": "www.aurasa.xyz",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1738695536,
+  "expire_in": 157680000,
+  "prev": "813d409c0f1f367b9eb3408b5ee6e75deaf882d19991e2391b8c9acb507fe0aa",
+  "seqno": 2,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMIkAnicrZJbSBVBGMePeioVohR7USNZIsq87Oyemd05hZAEFamcHupBq9PMzqxu
+5tnj2T0eL9gVumBSIpEPWSoYhCERWWEFXiKoMI0iKK0HX6SgLIqeus1avfXYzMMw
+3/f7/+ebj+/+0hRfelJ7/vDw0Ke1pUmPR8/HfdV9RrRFojZrkoItUi1fOPgBxh03
+XGsxKSjJQGwkA13TITIVLAOFESJDFSNDN7mqGkiRKdOBiKoQApVTTjWT4AA2FV0x
+mKFDmUgFkmlFqnksGrMirrCFAW5oCEFNNwHEiBgEIURMA1DTYBhDYnDAAKFCWGM7
+nkIUR4nDiyxbxMQlvFDeP/j/XHd8wQ5RLaBRk6kyp5QBPaAgLkiMuIKJArAHOjwW
+IXVc0CQeIw6RWgskEWuwDO611fvHn3wikSj6zRQ1NjULbTRmu7ZhHxC5GteNOkFP
+6zZFF2BOw39swtSKMNFHoWjgMceyI1IQCNJwLc8XaKqOMIQqKpB4Y9SK8bDlEVBD
+uiyW9w5vEJY6UFlAxoZsAlNFGsWcqgFZp5BzxDXIODF1XWEAYwy4omJAdQMTg0JZ
+M7lMvLY4vD5iS0FFlEmqhaVjVUeIG49xqXVsZLffl5TuW7wo2ZsvX3ra8r9TF9iQ
+6rt7gp3JrXKb41nXC7tKBq2dX7MOJc9n9g9XVO7Nn9yUcXhkirw3h26OjazAeZfs
+9KE7cPzRnmvzeXNtPaG5/JNfVuYMlpbMsN4TobIXl2fCfO7156VrZpf09vP67zdJ
+aFr6aM69Kyt+m/GDjI5VseR1KSsyS48MLhuYxfb8ru66s9mrOlLMbUeCkwlr/tTW
+Y+Wrs/z7i7+N+dtON76coVNP8ranDlT1fpggoe5Oh+ZctEfuXu3yt5/bEUp78OVp
+D7sF84bWbz6Y3dV+496Wrn2ZPRNv1MOnbpdnRNs+Fj7M/dl5tKNydLomoV/wP//W
+0bY9rezB+PDG4xWv7CvP+hb9Al9VQL8=
+=qwlP
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/aurasa
+
+==================================================================
