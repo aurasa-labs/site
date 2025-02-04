@@ -1,0 +1,112 @@
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    max-width: 1200px;
+}
+
+/* Header */
+.site-header {
+    background: #000;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+.site-header h1 {
+    font-size: 2rem;
+}
+
+/* Navigation */
+.site-nav {
+    background: #333;
+    color: #fff;
+    padding: 0.5rem 0;
+}
+
+.site-nav ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+
+.site-nav li {
+    margin: 0 1rem;
+}
+
+.site-nav a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.site-nav a:hover {
+    text-decoration: underline;
+}
+
+/* Hero Section */
+.hero {
+    background: linear-gradient(to right, #000, #333);
+    color: #fff;
+    text-align: center;
+    padding: 2rem 0;
+}
+
+.hero h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.btn {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    background: #fff;
+    color: #000;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.btn:hover {
+    background: #ddd;
+}
+
+/* Content Sections */
+.content-section {
+    padding: 2rem 0;
+}
+
+.content-section h2 {
+    margin-bottom: 1rem;
+}
+
+.content-section ul {
+    list-style-position: inside;
+    padding-left: 0;
+}
+
+.content-section li {
+    margin-bottom: 1rem;
+}
+
+/* Footer */
+.site-footer {
+    background: #000;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+    margin-top: 2rem;
+}
